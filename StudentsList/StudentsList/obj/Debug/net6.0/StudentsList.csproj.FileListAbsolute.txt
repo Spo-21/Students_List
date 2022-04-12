@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\StudentsList\StudentsList\bin\Debug\net6.0\StudentsList.exe
+C:\Users\HP\source\repos\StudentsList\StudentsList\bin\Debug\net6.0\StudentsList.deps.json
+C:\Users\HP\source\repos\StudentsList\StudentsList\bin\Debug\net6.0\StudentsList.runtimeconfig.json
+C:\Users\HP\source\repos\StudentsList\StudentsList\bin\Debug\net6.0\StudentsList.dll
+C:\Users\HP\source\repos\StudentsList\StudentsList\bin\Debug\net6.0\ref\StudentsList.dll
+C:\Users\HP\source\repos\StudentsList\StudentsList\bin\Debug\net6.0\StudentsList.pdb
+C:\Users\HP\source\repos\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.AssemblyInfo.cs
+C:\Users\HP\source\repos\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.dll
+C:\Users\HP\source\repos\StudentsList\StudentsList\obj\Debug\net6.0\ref\StudentsList.dll
+C:\Users\HP\source\repos\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.pdb
+C:\Users\HP\source\repos\StudentsList\StudentsList\obj\Debug\net6.0\StudentsList.genruntimeconfig.cache
